@@ -1,7 +1,22 @@
+*{
+  margin: 0;
+}
 .App {
   text-align: center;
+  background-color: #FF5A5F;
+  height: 110vh;
+  width: 100%;
+  color: white;
+  font-size: 115px;
+  font-weight: bold;
 }
 
+.para{
+  font-size: 40px;
+}
+.image{
+  width: 50px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
